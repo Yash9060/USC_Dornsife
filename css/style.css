@@ -196,8 +196,19 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background-size: cover;
 	-o-background-size: cover;
 }
-.intro .overlay {
-	/*background: rgba(0,0,0,0.2);*/
+.overlay {
+	margin-top: 80px;
+	background-image: url(../img/bk_img_6.jpg);
+}
+.logo img{
+	height: 50px;
+	width: 200px;
+	float: right;
+}
+.logo{
+	margin-left: 0px;
+	width: 1200px;
+	background-color: #981a1e;
 }
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
